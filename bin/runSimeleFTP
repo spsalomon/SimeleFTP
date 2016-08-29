@@ -1,2 +1,2 @@
 # runscript to run SimeleFTP
-
+python SimeleFTP.py
