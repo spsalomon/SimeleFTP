@@ -1,2 +1,2 @@
 # SimeleFTP
-Python SFTP Program
+Python S/FTP Program
