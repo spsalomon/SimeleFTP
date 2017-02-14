@@ -1,0 +1,3 @@
+all =[ 
+    'simeleftp_settings'
+]
