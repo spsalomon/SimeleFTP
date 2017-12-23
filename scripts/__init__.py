@@ -1,3 +1,0 @@
-all =[ 
-    'simeleftp_settings'
-]
